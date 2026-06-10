@@ -16,7 +16,7 @@ Cet article est une analyse croisée de deux entretiens réalisés auprès de de
 ---
 ## Introduction  
 
-Dans l'imaginaire collectif, la figure de la personne engagée, entendu comme une personne au service de la défense d'une cause sociale, politique ou environnementale, rejoint souvent l'image de l'activiste engagé sur le terrain, parfois impulsif mais accordant peu de crédit à la théorie, préférant la pratique et l'expérience concrète de son militantisme. À cette image s'oppose une autre figure militante mystifiée :  l'intellectuel, produisant des discours jugés peu accessibles voire déconnectés de la réalité du terrain, dans le confort de l'institution universitaire. 
+Dans l'imaginaire collectif, la figure de la personne engagée, entendu comme une personne au service de la défense d'une cause sociale, politique ou environnementale, rejoint souvent l'image de l'activiste engagé sur le terrain, parfois peu réfléchi et accordant peu de crédit à la théorie, préférant la pratique et l'expérience concrète de son militantisme. À cette image s'oppose une autre figure militante mystifiée :  l'intellectuel, produisant des discours jugés peu accessibles voire déconnectés de la réalité du terrain, dans le confort de l'institution universitaire. 
 
 Ces figures paraissent irréconciliables et semblent transcender les époques, du "communiste de salon" des années 1930 à la plus récente "gauche caviar".  
 
