@@ -13,8 +13,8 @@ Cet article est une revue de presse portant sur le refus de Pedro Sánchez d'uti
 
 
 <figure>
-<img src="/_posts/sanchez-refus/Pasted_image_20260608233435.png">
-<figcaption>Photo : Mathieu Herduin</figcaption>
+<img src="/assets/img/pixel_screens.png">
+<figcaption>TODO</figcaption>
 </figure>
 
 <figure>

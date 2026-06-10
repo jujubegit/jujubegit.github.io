@@ -9,7 +9,7 @@ repo: https://github.com/jujubegit.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
-author:
+author: Juh
   name: Juh # author name
   bio: >- # tell to the world
     Blogpost rassemblant divers articles en sciences sociales, réalisés au cours de ma formation en science politique à l'Université Vincennes Saint-Denis 
@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/pixel_screens.png # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://jujubegit.github.io" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
