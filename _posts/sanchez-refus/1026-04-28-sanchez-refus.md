@@ -17,12 +17,10 @@ Cet article est une revue de presse portant sur le refus de Pedro Sánchez d'uti
 <figcaption>Photo : Mathieu Herduin</figcaption>
 </figure>
 
-
 <figure>
-<img src="kernel.png" alt="boop">
+<img src="/apa-itu-shell/kernel.png" alt="kernel central of operating system">
 <figcaption>Fig 2. bagan kernel.</figcaption>
 </figure>
-
 ### 2,188 euros le litre de gazole
 Mardi 31 mars, le gazole, principal carburant consommé en France, a atteint son niveau le plus élevé depuis le début de la collecte des données par l’État en 1985. Cette hausse spectaculaire des prix est largement attribuée au conflit opposant l’Iran à une coalition menée par Israël et les États-Unis, déclenché le 28 février 2026. En réponse aux bombardements subis, l’Iran a instauré un blocage du détroit d’Ormuz, par lequel transite environ un tiers du commerce mondial de pétrole. Cette perturbation majeure des flux énergétiques a profondément affecté l’économie mondiale, provoquant une augmentation significative des prix, partiellement accentuée par la hausse des marges pratiquées par certains distributeurs.
 
