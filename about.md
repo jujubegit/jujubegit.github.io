@@ -6,7 +6,7 @@ excerpt:
 comments: false
 ---
 
-Blogpost rassemblant divers articles en sciences sociales. Actuellement étudiante en science politique à l'Université Vincennes Saint-Denis, je m'intéresse particulièrement aux innovations technologiques, à l'IA, à la cybersécurité mais également aux mobilisations sociales, à l'action syndicale en les abordant d'un oeil sociologique et politique. 
+Site personnel rassemblant divers articles en sciences sociales. Actuellement étudiante en science politique à l'Université Vincennes Saint-Denis, je m'intéresse particulièrement aux innovations technologiques, à l'IA, à la cybersécurité mais également aux mobilisations sociales, à l'action syndicale en les abordant d'un oeil sociologique et politique. 
 
 **Contact ✨**
 
