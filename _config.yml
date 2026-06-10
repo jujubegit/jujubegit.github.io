@@ -9,7 +9,7 @@ repo: https://github.com/jujubegit.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
-author: Juh
+author: 
   name: Juh # author name
   bio: >- # tell to the world
     Blogpost rassemblant divers articles en sciences sociales, réalisés au cours de ma formation en science politique à l'Université Vincennes Saint-Denis 
