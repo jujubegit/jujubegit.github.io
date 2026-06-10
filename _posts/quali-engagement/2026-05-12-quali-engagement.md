@@ -1,5 +1,5 @@
 ---
-title: "Analyse qualitative : Du discours au territoire penser, ou vivre le politique ? Deux formes d'engagement et de trajectoires face au réel"
+title: "Enquête qualitative : Du discours au territoire penser, ou vivre le politique ? Deux formes d'engagement et de trajectoires face au réel"
 date: 2026-05-12 10:00:00 +07:00
 modified: 2026-05-12 10:00:00 +07:00
 tags:

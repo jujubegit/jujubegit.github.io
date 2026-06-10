@@ -1,5 +1,5 @@
 ---
-title: Questionner le cadrage dominant autour de l'Intelligence Artificielle
+title: "Réflexion : Questionner le cadrage dominant autour de l'Intelligence Artificielle"
 date: 2026-04-22 00:00:00 +07:00
 modified: 2026-04-22 00:00:00 +07:00
 tags:
