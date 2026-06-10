@@ -19,7 +19,7 @@ Cet article est une revue de presse portant sur le refus de Pedro Sánchez d'uti
 
 
 <figure>
-<img src="/sanchez-refus/kernel.png" alt="kernel central of operating system">
+<img src="kernel.png" alt="boop">
 <figcaption>Fig 2. bagan kernel.</figcaption>
 </figure>
 
