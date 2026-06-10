@@ -32,7 +32,7 @@ Une attention particulière est accordée à la notion de travail pénible. Selo
 Toutes les variables objectives observées ont une influence positive sur le taux de participation à la grève, à l'exception de la non valorisation de l'autonomie qui baisse étonnamment le taux de grève. Deux variables sortent cependant du lot : la dangerosité du travail et son caractère non valorisant, avec respectivement une augmentation de 11.46 et 11.09 points de taux de grévistes. On peut voir sur le tableau que parmi les personnes occupant un travail dangereux, le taux de participation à la grève est de 54.43%, alors que dans la population globale il est de 42.97%. 
 
 <figure>
-<img src="Pasted image 20260609145253.png">
+<img src="/img/Pasted image 20260609145253.png">
 <figcaption>Tri croisé entre la participation à la grève et la dangerosité du travail</figcaption>
 </figure>
 
@@ -48,14 +48,14 @@ On peut s'appuyer sur les travaux de Baptise Giraud[^3] qui a précisément étu
 Lors de la grève du 20 septembre 2019, mouvement international pour le climat, 68% des lycéen-nes et étudiant-es qui y participent se considèrent “à gauche” ou “très à gauche”[^4]. Ce pourcentage nous interroge ainsi sur le positionnement politique des grévistes, et indirectement sur leur vote exprimé aux élections. Pour étudier l’axe de la politisation des grévistes, nous avons donc croisé la variable du vote au premier tour des élections présidentielles de 2022 avec la participation à la grève. De cette manière, nous pouvons en conclure du premier graphique (Graph. n°1) que les personnes ayant voté pour Philippe Poutou, Jean-Luc Mélenchon ou encore Nicolas-Dupont Aignan seraient les plus probables à avoir participé à une grève entre 2019 et 2024. Les électeur-ices de Philippe Poutou au premier tour sont notamment 74% à avoir participé à une grève entre 2019 et 2024.
 
 <figure>
-<img src="Pasted image 20260609145402.png">
+<img src="/img/Pasted image 20260609145402.png">
 </figure>
  
 Toutefois, ce premier graphique n’expose pas les effectifs de chaque électorat, tendant ainsi à placer sur un même plan des groupes dont les effectifs varient parfois fortement. L’examen d’un second graphique (Graph. n°2), intégrant les effectifs, montre ainsi que la forte proportion de grévistes observée parmi les électeurs de N. Dupont-Aignan s’explique principalement par le faible nombre de répondant·es ayant déclaré avoir voté pour ce candidat au premier tour de l’élection présidentielle de 2022. De même pour les electeur-ices de Nathalie Artaud, candidate défendant l'usage de la grève, qui ne sont pas correctement représentés du fait d'un sous-effectif. À l’inverse, le nombre absolu de grévistes apparaît particulièrement élevé parmi les électeurs de J.-L. Mélenchon. Ces résultats suggèrent que la participation aux mouvements de grève est davantage ancrée dans les segments de l’électorat situés à gauche de l’échiquier politique. Ils mettent notamment en évidence une forte proximité entre l’engagement dans la grève et les orientations politiques associées à l’électorat de J.-L. Mélenchon.
 
 
 <figure>
-<img src="Pasted image 20260609145456.png">
+<img src="/img/Pasted image 20260609145456.png">
 </figure>
 
 ## Les opinions sociales et culturelles
@@ -69,7 +69,7 @@ D’autre part, la question concernant la participation, le soutien ou l’oppos
 Nous remarquons une tendance sur ce tableau : la grande majorité (79%) de ceux ayant participé à la mobilisation sociale ont aussi participé à une ou plusieurs grèves (pas nécessairement liée(s) à cette mobilisation). Or, les soutiens de cette mobilisation sont partagés (environ 50/50) entre les grévistes et non-grévistes. 
 
 <figure>
-<img src="Pasted image 20260609145520.png">
+<img src="/img/Pasted image 20260609145520.png">
 </figure>
 
 Afin de mieux interpréter ce résultat, nous pouvons nous appuyer sur l’ouvrage de Stéphane Sirot, "La grève en France"[^5], en citant J-D Reynaud, qui explique que ce n’est pas une opinion, conviction ou idéologie qui pousse à la participation à une action collective (par extension la grève), mais bien une intégration professionnelle et/ou syndicale. Ce qui ressort donc de notre analyse est qu’une opinion progressiste n’est pas déterminante en elle-même, mais qu’il s’agit surtout de la participation à des actions collectives et de l’intégration dans le milieu professionnel d’un individu qui va le plus expliquer la participation à la grève.
@@ -82,7 +82,7 @@ Nous avons également porté notre analyse sur la classe sociale comme facteur d
 Comme l’illustre le tableau ci-contre, la participation à la grève varie sensiblement selon le niveau de revenu. Les individus appartenant aux catégories les plus modestes apparaissent moins enclins à faire grève, ce qui peut notamment s’expliquer par les contraintes économiques associées à la perte de salaire induite par un arrêt de travail. À l’autre extrémité de l’échelle des revenus, les taux de participation sont également plus faibles, ce qui pourrait refléter une moindre convergence entre les revendications portées par les mouvements de grève et les intérêts sociaux de ces catégories. L’analyse fait ainsi apparaître une distribution en forme de cloche pour la participation à la grève, tandis que la non-participation suit une dynamique inverse. Les taux les plus élevés de grévistes se concentrent dans les tranches de revenus comprises entre 1 800 et 2 300 euros mensuels, suggérant l’existence d’un groupe intermédiaire pour lequel les coûts de la grève demeurent supportables tout en étant perçue comme un moyen pertinent de défense de ses intérêts.
 
 <figure>
-<img src="Pasted image 20260609145556.png">
+<img src="/img/Pasted image 20260609145556.png">
 </figure>
 
 L’analyse de la catégorie socioprofessionnelle (CSP) confirme les observations précédentes relatives aux intérêts de classe. Les agriculteurs exploitants et les chefs d’entreprise apparaissent ainsi moins susceptibles de participer à des mouvements de grève que les catégories socioprofessionnelles les plus modestes ou salariées. Cette distribution suggère que la position occupée dans la structure sociale constitue un facteur de différenciation des comportements de mobilisation.
