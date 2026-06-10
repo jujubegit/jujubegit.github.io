@@ -13,7 +13,7 @@ Cet article est une revue de presse portant sur le refus de Pedro Sánchez d'uti
 
 
 <figure>
-<img src='/sanchez-refus/Pasted image 20260608233435.png'>
+<img src="Pasted_image_20260608233435.png">
 <figcaption>Photo : Mathieu Herduin</figcaption>
 </figure>
 
@@ -96,6 +96,7 @@ Dans une logique de promotion d'un mouvement indépendant vis-à-vis de l'État,
 
 Le choix de l'image est d'emblé significatif. Il place côte à côte l'image du discours de Sánchez du 4 mars à l'occasion duquel il prononce « No a la guerra », avec la photo du Christophe Colomb, l'un des navires de combat les plus avancés de la marine espagnole. Cette mise en scène produit un effet de contraste et participe à interroger le discours antimilitariste de Sánchez. L'article s'inscrit ainsi dans une démarche de contextualisation et d'apport d'informations permettant de déconstruire les allocutions du premier ministre.
 
+![[Pasted image 20260608205018.png]]
 
 <figure>
 <img src="Pasted image 20260608205018.png">
